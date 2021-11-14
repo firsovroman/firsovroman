@@ -6,7 +6,6 @@
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
 
-<br />
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=brown)
