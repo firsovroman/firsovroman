@@ -3,8 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=firsovroman)
 
 ## I'm a Java Developer
-- 💪 I like to write code
-- 🥅 I am constantly learning new things
+
 
 
 ## 🔧 Technologies & Tools
