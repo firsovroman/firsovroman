@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=firsovroman)
 
-## I'm a Java Developer
+## About my projects: (О моих проектах:)
 Dear employers, for each of the projects I have tried to give a comprehensive description in the README-file All projects were carried out for the purpose of self-education. Basically, they are all small.
 The most practice-oriented projects can be:
 - SpringMVC_Hibernate_AOP
