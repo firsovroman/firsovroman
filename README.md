@@ -13,7 +13,7 @@ In Russian:
 Наиболее практико ориентированными могут быть проекты: 
 - SpringMVC_Hibernate_AOP
 - Spring_REST_API_Server
-
+<br />
 
 
 ## 🔧 Technologies & Tools
