@@ -1,8 +1,18 @@
-### Hi there 👋, I'm Roman
+### Hi there 👋, My name is Roman I'm a Java Developer
 
 ![](https://komarev.com/ghpvc/?username=firsovroman)
 
 ## I'm a Java Developer
+Dear employers, for each of the projects I have tried to give a comprehensive description in the README-file All projects were carried out for the purpose of self-education. Basically, they are all small.
+The most practice-oriented projects can be:
+- SpringMVC_Hibernate_AOP
+- Spring_REST_API_Server
+
+In Russian:
+Уважаемые работодатели, к каждому из проектов я постарался дать изчерпывающее описание в файле README-file Все проекты я выполнял с целью самообучения. В принципе они все небольшие.
+Наиболее практико ориентированными могут быть проекты: 
+- SpringMVC_Hibernate_AOP
+- Spring_REST_API_Server
 
 
 
