@@ -3,13 +3,13 @@
 ![](https://komarev.com/ghpvc/?username=firsovroman)
 
 ## About my projects: (О моих проектах:)
-Dear colleagues, for each of the projects I have tried to give a exhaustive description in the README-file All projects were carried out for the purpose of self-education. 
+Dear colleagues, for each of the projects I have tried to give description in the README-file All projects were carried out for the purpose of self-education. 
 The most practice-oriented projects can be:
 - SpringMVC_Hibernate_AOP
 - Spring_REST_API_Server
 
 In Russian:
-<br />Уважаемые коллеги, к каждому из проектов я постарался дать иcчерпывающее описание в README-file Все проекты я выполнял с целью самообучения. 
+<br />Уважаемые коллеги, к каждому из проектов я постарался дать описание в README-file Все проекты я выполнял с целью самообучения. 
 Наиболее практико ориентированными могут быть проекты: 
 - SpringMVC_Hibernate_AOP
 - Spring_REST_API_Server
