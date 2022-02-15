@@ -8,7 +8,7 @@ The most practice-oriented projects can be:
 - SpringMVC_Hibernate_AOP
 - Spring_REST_API_Server
 
-In Russian:
+<strong>In Russian:</strong>
 <br />Уважаемые коллеги, к каждому из проектов я постарался дать описание в README-file Все проекты я выполнял с целью самообучения. 
 Наиболее практико ориентированными могут быть проекты: 
 - SpringMVC_Hibernate_AOP
