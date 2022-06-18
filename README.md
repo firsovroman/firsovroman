@@ -5,7 +5,7 @@
 ## О моих проектах:
 <br />Уважаемые коллеги, к каждому из проектов я постарался дать описание в README-file Все проекты я выполнял с целью самообучения. 
 Наиболее практико-ориентированными могут быть проекты: 
-- Spring_Boot_WEB_Bootstrap
+  <a href="[http://www.mindcraft.pro](https://github.com/firsovroman/Spring_Boot_WEB_Bootstrap)">- Spring_Boot_WEB_Bootstrap</a>
 - SpringMVC_Hibernate_AOP
 - Spring_REST_API_Server
 <br />
