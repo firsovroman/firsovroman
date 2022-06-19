@@ -7,7 +7,7 @@
 Наиболее практико-ориентированными могут быть проекты: <br>
   <a href="https://github.com/firsovroman/Spring_Boot_WEB_Bootstrap">- Spring_Boot_WEB_Bootstrap</a>
   <br>
-   <a href="https://github.com/firsovroman/Spring_Boot_WEB_Bootstrap">- SpringMVC_Hibernate_AOP</a>
+   <a href="https://github.com/firsovroman/SpringMVC_Hibernate_AOP">- SpringMVC_Hibernate_AOP</a>
    <br>
   <a href="https://github.com/firsovroman/Spring_Boot_WEB_Bootstrap">- Spring_REST_API_Server</a>
 
