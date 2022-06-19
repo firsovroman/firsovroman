@@ -9,7 +9,7 @@
   <br>
    <a href="https://github.com/firsovroman/SpringMVC_Hibernate_AOP">- SpringMVC_Hibernate_AOP</a>
    <br>
-  <a href="https://github.com/firsovroman/Spring_Boot_WEB_Bootstrap">- Spring_REST_API_Server</a>
+  <a href="https://github.com/firsovroman/Spring_REST_API_Server">- Spring_REST_API_Server</a>
 
 <br />
 
