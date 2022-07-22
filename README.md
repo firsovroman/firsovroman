@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=firsovroman)
 
 ## О моих проектах:
-<br />Уважаемые коллеги, к каждому из проектов я постарался дать описание в README-file Все проекты я выполнял с целью самообучения. 
+<br />К каждому из проектов я постарался дать описание в README-file. 
 Наиболее практико-ориентированными могут быть проекты: <br>
   <a href="https://github.com/firsovroman/Spring_Boot_WEB_Bootstrap">- Spring_Boot_WEB_Bootstrap</a>
   <br>
