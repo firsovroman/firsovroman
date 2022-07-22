@@ -15,7 +15,7 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=brown)
-![](https://img.shields.io/badge/Kotlin-Java-informational?style=flat&logo=java&logoColor=white&color=brown)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=java&logoColor=white&color=brown)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=brown)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=html5&logoColor=white&color=brown)
 
