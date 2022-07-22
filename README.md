@@ -9,9 +9,6 @@
   <br>
    <a href="https://github.com/firsovroman/SpringMVC_Hibernate_AOP">- SpringMVC_Hibernate_AOP</a>
    <br>
-  <a href="https://github.com/firsovroman/Spring_REST_API_Server">- Spring_REST_API_Server</a>
-     <br>
-  <a href="https://github.com/firsovroman/Spring_REST_API_Client">- Spring_REST_API_Client</a>
 
 <br />
 
