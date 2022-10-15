@@ -9,6 +9,9 @@
   <br>
    <a href="https://github.com/firsovroman/SpringMVC_Hibernate_AOP">- SpringMVC_Hibernate_AOP</a>
    <br>
+   <a href="https://github.com/firsovroman/TelegramBotParserPublic">- TelegramBotParser</a>
+  <br>
+   
 
 <br />
 
