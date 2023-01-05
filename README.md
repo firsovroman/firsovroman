@@ -11,6 +11,8 @@
    <br>
    <a href="https://github.com/firsovroman/TelegramBotParserPublic">- Telegram_Bot_Parser</a>
   <br>
+     <br>
+   <a href="https://github.com/firsovroman/Kafka-Demo-Clients-Java">- Kafka-Demo-Clients-Java</a>
    
 
 <br />
