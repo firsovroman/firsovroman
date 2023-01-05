@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/FrameWork-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Tools-Hibernate-informational?style=flat&logo=hibernate&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=ApacheMaven&logoColor=white&color=orange)
