@@ -19,13 +19,10 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=brown)
-<!-- ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=java&logoColor=white&color=brown) -->
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=brown)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=java&logoColor=white&color=brown)
 
 ![](https://img.shields.io/badge/FrameWork-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
-<!-- ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=spring-boot&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SpringSecurity-informational?style=flat&logo=Spring-Security&logoColor=white&color=2bbc8a) -->
 
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
 
