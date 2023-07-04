@@ -4,12 +4,13 @@
 
 ## О моих проектах:
 <br />К каждому из проектов я постарался дать описание в README-file. 
-Наиболее практико-ориентированными могут быть проекты: <br>
+Наиболее практико-ориентированными могут быть проекты: 
+  <br>
+     <a href="https://github.com/firsovroman/TelegramBotParserPublic">- Telegram_Bot_Parser</a>
+  <br>
   <a href="https://github.com/firsovroman/Spring_Boot_WEB_Bootstrap">- Spring_Boot_WEB_Bootstrap</a>
   <br>
    <a href="https://github.com/firsovroman/SpringMVC_Hibernate_AOP">- SpringMVC_Hibernate_AOP</a>
-   <br>
-   <a href="https://github.com/firsovroman/TelegramBotParserPublic">- Telegram_Bot_Parser</a>
   <br>
    <a href="https://github.com/firsovroman/Kafka-Demo-Clients-Java">- Kafka-Demo-Clients-Java</a>
    
