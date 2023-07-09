@@ -4,7 +4,7 @@
 
 ## О моих проектах:
 <br />
-Наиболее комплексные и задокументированные мои проекты:
+Мои наиболее комплексные и задокументированные проекты:
   <br>
      <a href="https://github.com/firsovroman/TelegramBotParserPublic">- Telegram_Bot_Parser</a>
   <br>
