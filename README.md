@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=firsovroman)
 
 ## О моих проектах:
-<br />К каждому из проектов я постарался дать описание в README-file. 
-Наиболее практико-ориентированными могут быть проекты: 
+<br />
+Наиболее комплексные и задокументированные мои проекты:
   <br>
      <a href="https://github.com/firsovroman/TelegramBotParserPublic">- Telegram_Bot_Parser</a>
   <br>
