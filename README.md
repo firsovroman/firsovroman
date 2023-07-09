@@ -8,7 +8,7 @@
   <br>
      <a href="https://github.com/firsovroman/TelegramBotParserPublic">- Telegram_Bot_Parser</a>
   <br>
-  <a href="https://github.com/firsovroman/WEB_Application">- WEB_Application</a>
+  <a href="https://github.com/firsovroman/Web-Application">- WEB_Application</a>
   <br>
    <a href="https://github.com/firsovroman/SpringMVC_Hibernate_AOP">- SpringMVC_Hibernate_AOP</a>
   <br>
