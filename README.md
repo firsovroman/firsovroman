@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Roman I'm a Java Developer
+### Приветствую на странице своего профиля 👋, меня зовут Роман и я Java разработчик
 
 ![](https://komarev.com/ghpvc/?username=firsovroman)
 
