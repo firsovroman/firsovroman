@@ -6,6 +6,8 @@
 <br />
 Мои наиболее комплексные и задокументированные проекты:
   <br>
+     <a href="https://github.com/firsovroman/StocksFetcher">- StocksFetcher</a>
+  <br>
      <a href="https://github.com/firsovroman/TelegramBotParserPublic">- Telegram_Bot_Parser</a>
   <br>
   <a href="https://github.com/firsovroman/Web-Application">- WEB_Application</a>
