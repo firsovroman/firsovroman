@@ -12,8 +12,6 @@
   <br>
   <a href="https://github.com/firsovroman/Web-Application">- WEB_Application</a>
   <br>
-   <a href="https://github.com/firsovroman/SpringMVC_Hibernate_AOP">- SpringMVC_Hibernate_AOP</a>
-  <br>
    <a href="https://github.com/firsovroman/Kafka-Demo-Clients-Java">- Kafka-Demo-Clients-Java</a>
    
 
