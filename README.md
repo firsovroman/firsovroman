@@ -47,7 +47,6 @@
  
  
 <details>
-<!--   <summary>:zap: Statistics:</summary>
 <summary>Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=firsovroman&langs_count=8&layout=compact" />
     <br />
