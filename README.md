@@ -12,7 +12,10 @@
   <br>
   <a href="https://github.com/firsovroman/Web-Application">- WEB_Application</a>
   <br>
-   
+
+
+   Связаться со мной можно:
+[@roman_firs](https://t.me/roman_firs)
 
 <br />
 
