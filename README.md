@@ -4,7 +4,7 @@
 
 ## О моих проектах:
 <br />
-Мои наиболее комплексные и задокументированные частные проекты:
+Мои наиболее задокументированные частные проекты (делал я их очень давно сейчас мой код качественее):
   <br>
      <a href="https://github.com/firsovroman/StocksFetcher">- StocksFetcher</a>
   <br>
@@ -12,7 +12,6 @@
   <br>
   <a href="https://github.com/firsovroman/Web-Application">- WEB_Application</a>
   <br>
-   <a href="https://github.com/firsovroman/Kafka-Demo-Clients-Java">- Kafka-Demo-Clients-Java</a>
    
 
 <br />
